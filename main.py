@@ -17,7 +17,7 @@ from markups import inkey
 import sosbank as sos
 
 
-bot = Bot(token='5544257964:AAHG5FdlWkXtmrBp4h_c3R2Uqqp0bqwcNqw')
+bot = Bot(token='5543974025:AAFMsBDzFUoqXrZKDZHOj5wn47wfBqpF5tA')
 dp = Dispatcher(bot)
 
 @dp.message_handler(commands='start')
